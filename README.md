@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @KubaKarasek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Kuba 
+
+#### I'm a self-taught beginner frontend developer currently based in Warsaw, Poland 🇵🇱. 
+
+- 👀 I’m interested in creating good looking, optimized and useful apps.
+- 🛠 The tools I use are React, Vite, styled-components and Node.js to name a few.
+- 🌱 I’m currently learning how to use Typescript with React and diving deep into framer-motion documentation. I also have Next.js in store for the following months.
+- 💞 Personally I'm an athlete, avid record collector and pineapple afficionado. 
+- 📫 You can reach me at jakkarasek@gmail.com or visit my ig [here](https://www.instagram.com/bette_davis_eyez/)
 
 <!---
 KubaKarasek/KubaKarasek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
