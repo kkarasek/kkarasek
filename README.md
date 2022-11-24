@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kuba 
 
-#### I'm a self-taught beginner frontend developer currently based in Warsaw, Poland 🇵🇱. 
+#### I'm a self-taught beginner frontend developer currently based in Warsaw, Poland 🇵🇱
 
 - 👀 I’m interested in creating good looking, optimized and useful apps.
 - 🛠 The tools I use are React, Vite, styled-components and Node.js to name a few.
