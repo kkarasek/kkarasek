@@ -3,7 +3,7 @@
 #### I'm a self-taught frontend developer currently based in Warsaw, Poland 🇵🇱
 
 - 👀 I’m interested in creating good looking, optimized and useful apps.
-- 🛠 The tools I use are React, styled-components and Node to name a few.
+- 🛠 The tools I use are React, styled-components, yarn and Node to name a few.
 - 🌱 I’m currently learning how to use Typescript with React and diving deep into framer-motion documentation. 
 - 🎯 I also have Next.js and Vite in store for the following months.
 - 💞 Personally I'm an athlete, avid record collector and synth-pop aficionado. 
